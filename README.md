@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/dienifergraziela">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=DanielScheffel&repo=github-readme-stats&theme=tokyonight">
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=dienifergraziela&repo=github-readme-stats&theme=tokyonight">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dienifergraziela&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienifergraziela&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
