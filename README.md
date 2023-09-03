@@ -1,11 +1,8 @@
 ### Hello, I am Dienifer Graziela 👋
 
-- 🔭 
-- 🤔
-- 💬 
+ 🔭 🤔💬 😄⚡
+  
 - 📫 dienifergrazielaripl@gmail.com
-- 😄 
-- ⚡ 
 - 👩‍💻 Técnica em Informática
 
 <br>
