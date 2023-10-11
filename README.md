@@ -5,7 +5,7 @@
 - 📫 dienifergrazielaripl@gmail.com
 - 👩‍💻 Técnica em Informática
 
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dienifergraziela&color=red" alt="Profile views" /> </p>
 
 <br>
 
